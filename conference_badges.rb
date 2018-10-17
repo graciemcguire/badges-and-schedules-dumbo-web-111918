@@ -10,4 +10,6 @@ def batch_badge_creator(array)
   return batch
 end
 
-def assign_rooms()
+def assign_rooms(speakers)
+  rooms = []
+  
