@@ -12,4 +12,6 @@ end
 
 def assign_rooms(speakers)
   rooms = []
-  
+  count = 1 
+  each.do |speaker|
+    rooms.push()
